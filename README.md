@@ -1,9 +1,6 @@
 # Weather App
 
-<img src="https://github.com/prosperevergreen/Weather-App-iOS/blob/master/Documentation/WeatherApp.gif" align="right" width="400" />
-
 A beautiful, dark-mode enabled weather app to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
-
 
 ## Setup:
 
@@ -20,6 +17,8 @@ A beautiful, dark-mode enabled weather app to check the weather for the current 
 4. Run app
 
 ## Technology implemented:
+
+<img src="https://github.com/prosperevergreen/Weather-App-iOS/blob/master/Documentation/WeatherApp.gif" align="right" width="400" />
 
 - UIStoryboard
 - Struct
